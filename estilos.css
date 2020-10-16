@@ -1,0 +1,81 @@
+#site{
+    width:1000px;
+    height:1000px; 
+    background-color: white;
+    font-family: Arial;
+    margin: 50px auto;
+}
+#izq{
+    width: 350px;
+    height: 1000px;
+    background-color: white;
+    float: left;
+    border-left:50px;
+    margin-left:50px
+}
+#a{
+    width: 350px;
+    height: 300px;
+    background-color:  darkturquoise;
+    left: inherit; 
+    float: left;
+}
+#b{
+    width: 350px;
+    height: 200px;
+    background-color: darkturquoise;
+    left: inherit; 
+    float: left;
+}
+#c{
+    width: 350px;
+    height: 200px;
+    background-color: darkturquoise;
+    left: inherit; 
+    float: left;
+}
+#d{
+    width: 350px;
+    height: 300px;
+    background-color: darkturquoise;
+    left: inherit; 
+    float: left;
+}
+#cuerpo{
+    width: 600px;
+    height: 1500px;
+    background-color: white;
+    border: auto;
+    border-top: 500px;
+    border-left: 400px;
+    float: right;
+    
+}
+#Nomb{
+    width: 550px;
+    height: 130px;
+    background-color: white;
+    border-left: 10px;
+    float: right;
+}
+#sobre{
+    width: 550px;
+    height: 130px;
+    background-color: white;
+    border-left: 10px;
+    float: right;
+}
+#edu{
+    width: 550px;
+    height: 350px;
+    background-color: white;
+    border-left: 10px;
+    float: inherit
+}
+#exp{
+    width: 550px;
+    height: 400px;
+    background-color: white;
+    border-left: 10px;
+    float: right;
+}
